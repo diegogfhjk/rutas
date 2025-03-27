@@ -59,7 +59,8 @@ pytest --maxfail=1 --disable-warnings -q
 │   ├── __init__.py
 │   ├── algoritmo_a_star.py
 │   ├── base_conocimiento.py
-│   └── main.py
+│   ├── main.py
+│   └── reglas.py
 ├── requirements.txt
 └── test
     ├── __init__.py
