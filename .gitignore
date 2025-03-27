@@ -1,0 +1,36 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de entorno y configuración
+.env
+*.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Archivos de log
+*.log
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas
+.pytest_cache/
+.cache/
+
+# Resultados de pruebas
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Archivos de matplotlib y otros cachés
+.matplotlib/
+
+# VSCode settings (si usas VSCode)
+.vscode/

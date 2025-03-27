@@ -1,0 +1,22 @@
+CONEXIONES = [
+    ("PuntoA", "PuntoB", 3),
+    ("PuntoA", "PuntoC", 5),
+    ("PuntoB", "PuntoC", 2),
+    ("PuntoB", "PuntoD", 4),
+    ("PuntoC", "PuntoD", 6),
+    ("PuntoC", "PuntoE", 4),
+    ("PuntoD", "PuntoE", 3),
+    ("PuntoB", "PuntoF", 7),
+    ("PuntoF", "PuntoG", 3),
+    ("PuntoD", "PuntoG", 5),
+    ("PuntoE", "PuntoH", 4),
+    ("PuntoG", "PuntoH", 2),
+    ("PuntoA", "PuntoI", 8),
+    ("PuntoI", "PuntoJ", 3),
+    ("PuntoJ", "PuntoH", 4),
+    ("PuntoG", "PuntoJ", 5),
+    ("PuntoE", "PuntoK", 2),
+    ("PuntoK", "PuntoL", 6),
+    ("PuntoH", "PuntoL", 3),
+    ("PuntoD", "PuntoK", 4)
+]
